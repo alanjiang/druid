@@ -1,0 +1,7 @@
+create table druid(
+	id bigint not null primary key,
+	name varchar(12),
+	 address varchar(12)
+	  
+);
+	 
