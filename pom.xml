@@ -519,6 +519,104 @@
  
  <!-- tencent sms end  -->   
  
+ <!-- httpunit start -->
+ <!-- https://mvnrepository.com/artifact/httpunit/httpunit -->
+ <dependency>
+    <groupId>org.apache.httpcomponents</groupId>
+    <artifactId>httpclient</artifactId>
+    <version>4.5.5</version>
+</dependency>
+<dependency>
+    <groupId>httpunit</groupId>
+    <artifactId>httpunit</artifactId>
+    <version>1.7</version>
+   
+</dependency>
+ 
+ <!-- httpunit end -->
+ 
+ <!--htmlunit start-->
+ <dependency>
+    <groupId>net.sourceforge.htmlunit</groupId>
+    <artifactId>htmlunit</artifactId>
+    <version>2.32</version>
+</dependency>
+
+<dependency>
+    <groupId>xalan</groupId>
+    <artifactId>xalan</artifactId>
+    <version>2.7.2</version>
+</dependency>
+
+<dependency>
+    <groupId>org.eclipse.jetty.websocket</groupId>
+    <artifactId>websocket-client</artifactId>
+    <version>9.4.12.v20180830</version>
+</dependency>
+
+
+
+<dependency>
+    <groupId>org.apache.httpcomponents</groupId>
+    <artifactId>httpmime</artifactId>
+    <version>4.5.6</version>
+</dependency>
+
+
+
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-text</artifactId>
+    <version>1.4</version>
+</dependency>
+
+
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-lang3</artifactId>
+    <version>3.8</version>
+</dependency>
+
+<dependency>
+    <groupId>net.sourceforge.htmlunit</groupId>
+    <artifactId>htmlunit-cssparser</artifactId>
+    <version>1.2.0</version>
+</dependency>
+
+
+
+<dependency>
+    <groupId>commons-io</groupId>
+    <artifactId>commons-io</artifactId>
+    <version>2.6</version>
+</dependency>
+
+<dependency>
+    <groupId>commons-logging</groupId>
+    <artifactId>commons-logging</artifactId>
+    <version>1.2</version>
+</dependency>
+
+<dependency>
+    <groupId>commons-net</groupId>
+    <artifactId>commons-net</artifactId>
+    <version>3.6</version>
+</dependency>
+
+<dependency>
+    <groupId>net.sourceforge.htmlunit</groupId>
+    <artifactId>htmlunit-core-js</artifactId>
+    <version>2.33</version>
+</dependency>
+
+<dependency>
+    <groupId>xml-apis</groupId>
+    <artifactId>xml-apis</artifactId>
+    <version>1.4.01</version>
+</dependency>
+ 
+ <!-- htmlunit end -->
+ 
  <!--  javaMelody start -->
 
 <dependency>
